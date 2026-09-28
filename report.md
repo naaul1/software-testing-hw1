@@ -90,9 +90,13 @@ Họ và tên: Trần Đình Luân<br>MSSV: 23120059
 
 ## 1.3 Sơ đồ mindmap vai trò QA/QC (AI vẽ, sinh viên tìm 3 lỗi)
 
-![](images/mindmap_vai_tro_qa_qc_2026.svg)
+![](images/mindmap.svg)
 
-*Ghi chú: sơ đồ do AI vẽ; sinh viên tìm 3 lỗi và ghi vào biểu mẫu [AI-02]. File mindmap (PNG/Markdown) nộp kèm trong zip.*
+**Những lỗi sai trong mindmap trên:**
+
+1. Các đường nối với node "Performance" và "Kĩ năng chung" bị mất gốc.
+2. Quy trình ISTQB có 7 bước, trong khi mindmap chỉ liệt kê 6, gộp implementation và execution lại thành thực hiện, và sắp xếp sai vị trí của "bảo cáo" (bước gốc là monitoring and control).
+3. Node "Kỹ năng chung" liệt kê lại ISTQB dù ISTQB đã được nối nhánh lớn từ node "Vai trò QA/QC" rồi.
 
 
 
@@ -134,7 +138,7 @@ Họ và tên: Trần Đình Luân<br>MSSV: 23120059
 
 - Nhãn hiệu: Happy Cook; Model: HEK-17WF; Dung tích: 1,7 lít; Năm mua: 04/2018.
 - Số serial (che 4 ký tự giữa): không đọc được do tem bị tróc.
-- Ảnh: []()
+- Ảnh: ![](images/evidence_image.jpeg)
 
 ## 3.2 Bảng 15 test cases
 
