@@ -191,20 +191,18 @@ Tóm tắt 7 artifact AI sinh đã audit (bản đủ 5 mục trong [AI-02] đí
 | 6 | Mindmap QA/QC + ISTQB (G9.1) | INCOMPLETE (sai 7 bước ISTQB, mất gốc nối) |
 | 7 | AI điền Actual/Verdict 15 TC | INCOMPLETE (sinh viên kiểm chứng bằng chạy thật + video) |
 
-Tổng: 7 artifact; VALID 2 (29%); INCOMPLETE 5 (71%); INVALID 0. Prompt nguyên văn xem Phụ lục A (AI-compliance/prompt-log.md).
+Tổng: 7 artifact; VALID 2 (29%); INCOMPLETE 5 (71%); INVALID 0. Nội dung đầy đủ và prompt nguyên văn xem ở Phụ lục A [(AI-02)](<AI-compliance/[AI-02] - FIT@HCMUS - AI Audit Report_Vn.md>).
+
 
 # AI Critique
 
 AI làm tốt ở khâu thu thập và tổng hợp: rà nhiều nguồn trong thời gian ngắn, trích đúng JD và kỹ năng yêu cầu, sinh khung 20 mục lỗi và 15 test case đầy đủ cấu trúc, lấy được 3 mức lương công khai qua JSON-LD mà trang ẩn với người chưa đăng nhập. Tuy nhiên AI sai ở mọi chi tiết cần kiểm chứng thực tế. Thứ nhất, AI gắn nhãn sai nguyên nhân lỗi Gemini (#20) là thiên kiến trong khi bản chất là overcorrect cơ chế cân bằng đa dạng; AI khái quát từ mẫu huấn luyện mà không hiểu cơ chế cụ thể của sự cố. Thứ hai, AI bỏ sót edge case vật lý (đun khi mở nắp, đun lại ngay sau khi sôi, nhấc ấm giữa chừng) và giả định sai cấu tạo ấm (nhiều vạch chia, lưới lọc) vì AI không có ngữ cảnh thiết bị thật. Thứ ba, mindmap AI vẽ mất gốc nối và rút quy trình ISTQB từ 7 bước còn 6 bước, cho thấy AI ưu tiên hình thức gọn hơn tính đúng. Thứ tư, AI chỉ đọc ngày đăng tương đối và không qua được màn hình đăng nhập nên 5 mức lương phải xác minh bằng ảnh chụp tay. Nguyên nhân chung: AI dự đoán từ dữ liệu cũ, không duyệt web có trạng thái và không chạm được thiết bị. Bài học: dùng AI để soạn bản đầu và gợi ý cấu trúc, không bao giờ lấy output AI làm bằng chứng; mọi số liệu phải đối chiếu nguồn sống và ISTQB trước khi chốt; ảnh, video và prompt log là việc của riêng sinh viên.
 
+
 # Mandatory Disclosure
 
 Tôi, **Trần Đình Luân (23120059)**, khai báo: bản đầu của phân tích AI impact, danh sách 20 lỗi, khung 15 test case và mindmap do OpenCode (Muse Spark 1.3 Free) và Claude Web (Sonnet 5.5) sinh; tôi đã rà soát và chỉnh sửa Yêu cầu 1 (thay 2 tin quá hạn), Yêu cầu 2 (sửa nhãn lỗi #20 Gemini), Yêu cầu 3 (sửa TC14/TC15), bổ sung 3 edge case TC05, TC06, TC13; ảnh chụp tin có tên tài khoản, ảnh thiết bị kèm thẻ sinh viên, 5 video chạy test có giọng thuyết minh và xác nhận lương sau đăng nhập do tôi tự làm. Chi tiết xem AI Audit Report trong [AI-02] và Phụ lục A. Tôi cam đoan không dùng AI để sinh bất kỳ artifact nào thuộc danh mục bị cấm.
 
-# Appendix
-
-- **Prompt log:** AI-compliance/prompt-log.md (mọi prompt kèm timestamp và output nguyên văn).
-- **Biểu mẫu AI đã ký:** [AI-02], [AI-03], [AI-05], [AI-06] (trong AI-compliance/).
 
 # Self-assessment
 
@@ -215,3 +213,9 @@ Tôi, **Trần Đình Luân (23120059)**, khai báo: bản đầu của phân t�
 - **AI-2 (4/4):** AI Critique đủ 200-300 chữ + [AI-03] đã khai.
 - **AI-3 (3/3):** [AI-05] đã ký.
 - **Tổng tự chấm: 95/100.**
+
+
+# Appendix A
+
+- **Prompt log:** [prompt-log.md](AI-compliance/prompt-log.md) (mọi prompt kèm timestamp và output nguyên văn).
+- **Biểu mẫu AI đã ký:** [AI-02](<AI-compliance/[AI-02] - FIT@HCMUS - AI Audit Report_Vn.md>), [AI-03](<AI-compliance/[AI-03] - FIT@HCMUS - AI Disclosure Form_Vn.md>), [AI-05](<AI-compliance/[AI-05] - FIT@HCMUS - AI Privacy Checklist_Vn.md>), [AI-06](<AI-compliance/[AI-06] - FIT@HCMUS - AI Student Acknowledgement_Vn.docx.md>).

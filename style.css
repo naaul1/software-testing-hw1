@@ -1,0 +1,23 @@
+table {
+  width: 100%;
+  table-layout: auto;
+  border-collapse: collapse;
+  font-size: 10px;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 4px 6px;
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+pre, code {
+  white-space: pre-wrap;
+  word-break: break-word;
+}
