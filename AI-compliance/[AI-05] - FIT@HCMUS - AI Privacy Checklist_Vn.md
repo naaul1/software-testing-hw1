@@ -13,7 +13,7 @@
 ## **1\. Trước khi dùng AI**
 
 * \[x\] Đã xác nhận Cấp độ AI cho bài tập này.  
-* \[x\] Dùng tài khoản Claude Pro tự chọn (không phải tài khoản cá nhân).  
+* \[\] Dùng tài khoản Claude Pro tự chọn (không phải tài khoản cá nhân).  
 * \[x\] Đã đọc Thoả thuận AI của môn học.  
 * \[x\] Hiểu rõ artifact nào KHÔNG được sinh bằng AI.
 

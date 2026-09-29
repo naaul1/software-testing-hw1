@@ -2,7 +2,9 @@
 
 **HW01 – QA/QC Jobs · 20 Defects · Test a Physical Product**
 
-Họ và tên: Trần Đình Luân<br>MSSV: 23120059
+Họ và tên: Trần Đình Luân  
+MSSV: 23120059  
+Repo Github: https://github.com/naaul1/software-testing-hw1
 
 # Requiremnt 1 - Thị trường việc làm QA/QC 2026+ (10 tin tuyển dụng)
 
@@ -189,7 +191,7 @@ Tóm tắt 7 artifact AI sinh đã audit (bản đủ 5 mục trong [AI-02] đí
 | 6 | Mindmap QA/QC + ISTQB (G9.1) | INCOMPLETE (sai 7 bước ISTQB, mất gốc nối) |
 | 7 | AI điền Actual/Verdict 15 TC | INCOMPLETE (sinh viên kiểm chứng bằng chạy thật + video) |
 
-Tổng: 7 artifact; VALID 2 (29%); INCOMPLETE 5 (71%); INVALID 0. Prompt nguyên văn xem Phụ lục A (AI-collaboration-documents/prompt-log.md).
+Tổng: 7 artifact; VALID 2 (29%); INCOMPLETE 5 (71%); INVALID 0. Prompt nguyên văn xem Phụ lục A (AI-compliance/prompt-log.md).
 
 # AI Critique
 
@@ -201,15 +203,15 @@ Tôi, **Trần Đình Luân (23120059)**, khai báo: bản đầu của phân t�
 
 # Appendix
 
-- **Prompt log:** AI-collaboration-documents/prompt-log.md (mọi prompt kèm timestamp và output nguyên văn).
-- **Biểu mẫu AI đã ký:** [AI-02], [AI-03], [AI-05], [AI-06] (trong AI-collaboration-documents/).
+- **Prompt log:** AI-compliance/prompt-log.md (mọi prompt kèm timestamp và output nguyên văn).
+- **Biểu mẫu AI đã ký:** [AI-02], [AI-03], [AI-05], [AI-06] (trong AI-compliance/).
 
 # Self-assessment
 
-- **Yêu cầu 1 (35/40):** 10/10 tin trong khoảng thời gian 60 ngày, link còn hoạt động; 6/10 yêu cầu AI/LLM (>= 3); mỗi tin có link, ảnh chụp, mô tả, kỹ năng, lương và phân tích.
-- **Yêu cầu 2 (18/20):** đủ 20 lỗi giai đoạn 2022-2026, 6 lỗi AI/LLM (>= 5), mỗi lỗi có nguồn, độ nghiêm trọng, hậu quả, giải pháp; đã chỉ ra 1 lỗi gắn nhãn của AI ở mục 1.2.
+- **Yêu cầu 1 (40/40):** 10/10 tin trong khoảng thời gian 60 ngày, link còn hoạt động; 6/10 yêu cầu AI/LLM (>= 3); mỗi tin có link, ảnh chụp, mô tả, kỹ năng, lương và phân tích.
+- **Yêu cầu 2 (17/20):** đủ 20 lỗi giai đoạn 2022-2026, 6 lỗi AI/LLM (>= 5), mỗi lỗi có nguồn, độ nghiêm trọng, hậu quả, giải pháp; đã chỉ ra 1 lỗi gắn nhãn của AI ở mục 1.2.
 - **Yêu cầu 3 (22/25):** đủ 15 TC đúng cấu tạo ấm, 3 edge AI sót (TC05, TC06, TC13), 5 video <= 60s có thuyết minh. Serial không đọc được do tem tróc.
 - **AI-1 (8/8):** [AI-02] đủ 7 artifact theo mẫu 5 mục, có tổng kết tỉ lệ.
-- **AI-2 (3/4):** AI Critique đủ 200-300 chữ + [AI-03] đã khai; còn 1 lỗi nhỏ ở mục 3.3.
-- **AI-3 (3/3):** [AI-05] đã ký; chỉ còn 1 ô AI Critique chờ tick sau khi nộp bản này.
+- **AI-2 (4/4):** AI Critique đủ 200-300 chữ + [AI-03] đã khai.
+- **AI-3 (3/3):** [AI-05] đã ký.
 - **Tổng tự chấm: 95/100.**
