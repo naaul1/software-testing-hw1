@@ -27,7 +27,7 @@ Tôi đã đọc và hiểu Thoả thuận Sử dụng AI cho môn CS423 / CSC15
 | **AI Tool(s) bạn dự định dùng:** | OpenCode (model Muse Spark 1.3 Free), Claude Web (model Sonnet 5.5) |
 | **Ngày kích hoạt:** | 22/09/2026 |
 | **Đã đăng nhập lần đầu:** | \[x\] Có  \[ \] Không |
-| **Đã kích hoạt GitHub Copilot Education:** | \[ \] Có  \[x\] Không (không dùng Copilot trong môn này) |
+| **Đã kích hoạt GitHub Copilot Education:** | \[ \] Có  \[x\] Không |
 
 ## **Chữ ký**
 
