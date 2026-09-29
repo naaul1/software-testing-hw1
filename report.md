@@ -10,60 +10,61 @@ Họ và tên: Trần Đình Luân<br>MSSV: 23120059
 
 **Bảng 1. Danh sách 10 tin tuyển dụng**
 
-| # | Vị trí - Công ty | Nguồn  -  Nơi làm | Ngày đăng | Mức lương | AI | Link (truy cập 22/09/2026) |
-|---|------------------|-----------------|-----------|-----------|:---:|-------------------------------|
-| 1 | Senior QA Engineer (Automation, Selenium, Playwright) - Zeya Labs AI | ITviec  -  HCM  -  At office | ~ 16/09 | chưa rõ (xem sau đăng nhập) | [Có] | https://itviec.com/it-jobs/senior-qa-engineer-automation-selenium-playwright-zeya-labs-ai-5714 |
-| 2 | Test Automation Engineer - Simpson Strong-Tie Vietnam | ITviec  -  HCM  -  Hybrid | ~ 26/09 | chưa rõ (xem sau đăng nhập) | [Có] | https://itviec.com/it-jobs/test-automation-engineer-simpson-strong-tie-vietnam-4435 |
-| 3 | [Hanoi] Fullstack QA Engineer Lead (Manual, Auto, AI) - MONEY FORWARD | ITviec  -  HN  -  Hybrid | ~ 15/09 | chưa đề rõ | [Có] | https://itviec.com/it-jobs/hanoi-fullstack-qa-engineer-lead-manual-auto-ai-money-forward-vietnam-co-ltd-4636 |
-| 4 | Senior Automation Test (AI, QA QC, API) - Floware | ITviec  -  HCM | ~ 05/09 | chưa đề rõ | [Có] | https://itviec.com/it-jobs/senior-automation-test-ai-qa-qc-api-floware-1219 |
-| 5 | Remote - Automation QA Lead - OrgScale Recruitment | ITviec  -  Remote (HCM) | ~ 19/09 | $2.000-$4.000/tháng | [Có] | https://itviec.com/it-jobs/remote-automation-qa-lead-orgscale-recruitment-3015 |
-| 6 | Middle QA Automation Engineer (Playwright, Selenium) - FPT Digital | ITviec  -  HN | ~ 16/09 | $800-$1.500/tháng | [Có] | https://itviec.com/it-jobs/middle-qa-automation-engineer-playwright-selenium-fpt-digital-4422 |
-| 7 | QA Engineer (Tester, QA QC, English) - Saritasa | ITviec  -  HCM | ~ 17/09 | $1.000-$1.500/tháng | [Không] | https://itviec.com/it-jobs/qa-engineer-tester-qa-qc-english-up-to-1500-saritasa-4856 |
-| 8 | Middle/Senior Automation QC (Tester, QA QC) - Saigon Technology | ITviec  -  Đà Nẵng  -  Hybrid | ~ 20/09 | chưa đề rõ | [Không] | https://itviec.com/it-jobs/middle-senior-automation-qc-tester-qa-qc-saigon-technology-4350 |
-| 9 | Quality Engineering Expert (Automation/Performance) - Techcombank | ITviec  -  HN | ~ 19/09 | chưa đề rõ | [Không] | https://itviec.com/it-jobs/quality-engineering-expert-automation-performance-techcombank-3041 |
-| 10 | QA Engineer (Manual & Automation Tester) - DXC Vietnam | ITviec  -  HCM | ~ 10/09 | chưa đề rõ | [Không] | https://itviec.com/it-jobs/qa-engineer-manual-automation-tester-dxc-vietnam-1007 |
+| # | Vị trí - Công ty | Nguồn  -  Nơi làm | Ngày đăng | Mức lương | AI | Mô tả việc (JD tóm tắt) | Kỹ năng yêu cầu | Link |
+|---|------------------|-----------------|-----------|-----------|:---:|---------------------|-----------------|-------------------------------|
+| 1 | Senior QA Engineer (Automation, Selenium, Playwright) - Zeya Labs AI | ITviec  -  HCM  -  At office | ~ 16/09 | thương lượng | [Có] | Đảm bảo chất lượng phần mềm enterprise, viết và chạy test automation, tích hợp CI. | Automation Test, Jenkins, API, Cypress, Playwright, Selenium | https://itviec.com/it-jobs/senior-qa-engineer-automation-selenium-playwright-zeya-labs-ai-5714 |
+| 2 | Test Automation Engineer - Simpson Strong-Tie Vietnam | ITviec  -  HCM  -  Hybrid | ~ 26/09 | thương lượng | [Có] | Xây dựng test automation cho giải pháp phần mềm, dùng AI hỗ trợ sinh test. | QA QC, Automation Test, Selenium, Appium, AI, Python | https://itviec.com/it-jobs/test-automation-engineer-simpson-strong-tie-vietnam-4435 |
+| 3 | [Hanoi] Fullstack QA Engineer Lead (Manual, Auto, AI) - MONEY FORWARD | ITviec  -  HN  -  Hybrid | ~ 15/09 | thương lượng | [Có] | Dẫn dắt team QA fullstack (manual, auto, AI), dẫn dắt chuyển đổi AI trong QA. | Automation Test, Tester, English, Playwright, TypeScript, QA QC | https://itviec.com/it-jobs/hanoi-fullstack-qa-engineer-lead-manual-auto-ai-money-forward-vietnam-co-ltd-4636 |
+| 4 | Senior Automation Test (AI, QA QC, API) - Floware | ITviec  -  HCM | ~ 05/09 | thương lượng | [Có] | Viết test automation API, dùng công cụ AI để tăng năng suất test. | Automation Test, CI/CD, API, Tester, AI, Python | https://itviec.com/it-jobs/senior-automation-test-ai-qa-qc-api-floware-1219 |
+| 5 | Remote - Automation QA Lead - OrgScale Recruitment | ITviec  -  Remote (HCM) | ~ 19/09 | $2.000-$4.000/tháng | [Có] | Xây dựng chiến lược automation, dẫn dắt team, thiết kế framework test. | AI, Selenium, Cypress, CI/CD, API, DevOps | https://itviec.com/it-jobs/remote-automation-qa-lead-orgscale-recruitment-3015 |
+| 6 | Middle QA Automation Engineer (Playwright, Selenium) - FPT Digital | ITviec  -  HN | ~ 16/09 | $800-$1.500/tháng | [Có] | Viết script automation, sinh test case bằng AI, kiểm thử chatbot và RAG. | Automation Test, Cypress, Playwright, Selenium, QA QC, AI | https://itviec.com/it-jobs/middle-qa-automation-engineer-playwright-selenium-fpt-digital-4422 |
+| 7 | QA Engineer (Tester, QA QC, English) - Saritasa | ITviec  -  HCM | ~ 17/09 | $1.000-$1.500/tháng | [Không] | Kiểm thử dự án gia công (tích hợp, manual), giao tiếp tiếng Anh, dùng AI tăng tốc. | Integration test, AI, QA QC, English | https://itviec.com/it-jobs/qa-engineer-tester-qa-qc-english-up-to-1500-saritasa-4856 |
+| 8 | Middle/Senior Automation QC (Tester, QA QC) - Saigon Technology | ITviec  -  Đà Nẵng  -  Hybrid | ~ 20/09 | thương lượng | [Không] | Viết test automation (Playwright), quản lý test trên Zephyr, chạy CI-CD. | QA QC, Zephyr, API, CI/CD, Playwright, Automation Test | https://itviec.com/it-jobs/middle-senior-automation-qc-tester-qa-qc-saigon-technology-4350 |
+| 9 | Quality Engineering Expert (Automation/Performance) - Techcombank | ITviec  -  HN | ~ 19/09 | thương lượng | [Không] | Đảm bảo chất lượng hệ thống ngân hàng, automation và performance test. | Tester, Automation Test, Selenium, Java, QA QC, Oracle | https://itviec.com/it-jobs/quality-engineering-expert-automation-performance-techcombank-3041 |
+| 10 | QA Engineer (Manual & Automation Tester) - DXC Vietnam | ITviec  -  HCM | ~ 10/09 | thương lượng | [Không] | Kiểm thử manual và automation cho hệ thống ngân hàng và bảo hiểm. | QA QC, TestComplete, Cypress, Selenium, Automation Test, Tester | https://itviec.com/it-jobs/qa-engineer-manual-automation-tester-dxc-vietnam-1007 |
+
 
 ### Ảnh chụp minh chứng cho 10 tin
 
 **Tin 1 - Senior QA Engineer - Zeya Labs AI**
 
-![Tin 1 - Zeya Labs AI](images/entry01.png)
+![Tin 1 - Zeya Labs AI](images/capture01.png)
 
 **Tin 2 - Test Automation Engineer - Simpson Strong-Tie Vietnam**
 
-![Tin 2 - Simpson Strong-Tie](images/entry02.png)
+![Tin 2 - Simpson Strong-Tie](images/capture02.png)
 
 **Tin 3 - Fullstack QA Engineer Lead - MONEY FORWARD**
 
-![Tin 3 - MONEY FORWARD](images/entry03.png)
+![Tin 3 - MONEY FORWARD](images/capture03.png)
 
 **Tin 4 - Senior Automation Test - Floware**
 
-![Tin 4 - Floware](images/entry04.png)
+![Tin 4 - Floware](images/capture04.png)
 
 **Tin 5 - Remote Automation QA Lead - OrgScale Recruitment**
 
-![Tin 5 - OrgScale](images/entry05.png)
+![Tin 5 - OrgScale](images/capture05.png)
 
 **Tin 6 - Middle QA Automation Engineer - FPT Digital**
 
-![Tin 6 - FPT Digital](images/entry06.png)
+![Tin 6 - FPT Digital](images/capture06.png)
 
 **Tin 7 - QA Engineer - Saritasa**
 
-![Tin 7 - Saritasa](images/entry07.png)
+![Tin 7 - Saritasa](images/capture07.png)
 
 **Tin 8 - Middle/Senior Automation QC - Saigon Technology**
 
-![Tin 8 - Saigon Technology](images/entry08.png)
+![Tin 8 - Saigon Technology](images/capture08.png)
 
 **Tin 9 - Quality Engineering Expert - Techcombank**
 
-![Tin 9 - Techcombank](images/entry09.png)
+![Tin 9 - Techcombank](images/capture09.png)
 
 **Tin 10 - QA Engineer - DXC Vietnam**
 
-![Tin 10 - DXC Vietnam](images/entry10.png)
+![Tin 10 - DXC Vietnam](images/capture10.png)
 
 ## 1.2 Phân tích tác động AI theo từng tin
 
@@ -127,7 +128,7 @@ Họ và tên: Trần Đình Luân<br>MSSV: 23120059
 19. **[AI] Chatbot Air Canada báo sai giá vé (02/2024) - Mức độ: Medium (ảo giác).** Bot nói sai khách được mua vé full rồi hoàn tiền tang chế trong 90 ngày. Hậu quả: tòa buộc hãng trả ~812 CAD, khẳng định công ty chịu trách nhiệm cho lỗi bot. Giải pháp: trả tiền, sửa/gỡ bot gây hiểu lầm. Nguồn: https://www.theguardian.com/world/2024/feb/16/air-canada-chatbot-lawsuit
 20. **[AI] Google Gemini vẽ ảnh sai lịch sử (02/2024) - Mức độ: High (thiên kiến).** Tính năng cân bằng đa dạng sinh ra lính Đức và cha lập quốc Mỹ có màu da sai lịch sử. Hậu quả: phản ứng dư luận, Google tạm dừng sinh ảnh người. Giải pháp: tạm dừng tính năng, hiệu chỉnh lại mô hình với ngữ cảnh lịch sử và kiểm thử mở rộng. Nguồn: https://www.theverge.com/2024/2/22/24079876/google-gemini-ai-photos-people-pause
 
-## 1.2 Chỉ ra một lỗi của AI ở mục trên
+## 2.2 Chỉ ra một lỗi của AI ở mục trên
 
 - Ở sự cố thứ 20 trên, AI mô tả lỗi là do bias. Tuy nhiên, lỗi đó thực chất do cơ chế cân bằng đa dạng bị overcorrect, từ đó mới tạo sinh sai thực tế. Lỗi này nên được gắn nhãn là "hallucination" thì đúng hơn là do "bias".
 
@@ -162,7 +163,7 @@ Họ và tên: Trần Đình Luân<br>MSSV: 23120059
 
 ## 3.3 Edge cases AI bỏ sót
 
-- 4 case [edge] (TC05, TC06, TC13) là các test case AI bỏ sót khi sinh test case cho ấm đun nước.
+- 3 case [edge] (TC05, TC06, TC13) là các test case AI bỏ sót khi sinh test case cho ấm đun nước.
 
 ## 3.4 Video thực hiện
 
@@ -176,25 +177,39 @@ Họ và tên: Trần Đình Luân<br>MSSV: 23120059
 
 # AI Audit Report
 
-*Entry [AI-02] đầy đủ (5 phần: prompt + tool + timestamp / **toàn bộ output AI - nguyên văn, không tóm tắt, không paraphrase** / verdict / lý do / phần sửa của sinh viên) cho Yêu cầu 1 sẽ được sinh viên điền và ký trong biểu mẫu [AI-02]. Prompt log - **Phụ lục A** (`AI-collaboration-documents/prompt-log.md`) ghi **nguyên văn đầy đủ** từng prompt + toàn bộ output của AI (không paraphrase, không cắt, theo mục 3 [AI-02] của requirements.md).*
+Tóm tắt 7 artifact AI sinh đã audit (bản đủ 5 mục trong [AI-02] đính kèm):
+
+| # | Artifact | Verdict |
+|---|----------|---------|
+| 1 | 10 dòng phân tích AI impact (Req 1) | INCOMPLETE (2 tin quá hạn, đã thay) |
+| 2 | Danh sách 20 lỗi 2022-2026 (Req 2) | INCOMPLETE (sửa nhãn lỗi #20 Gemini) |
+| 3 | Khung 15 test case ấm đun (Req 3) | INCOMPLETE (thiếu edge vật lý, sai giả định) |
+| 4 | Sửa TC14/TC15 theo cấu tạo thật | VALID |
+| 5 | Thay 2 tin quá hạn (Req 1) | VALID |
+| 6 | Mindmap QA/QC + ISTQB (G9.1) | INCOMPLETE (sai 7 bước ISTQB, mất gốc nối) |
+| 7 | AI điền Actual/Verdict 15 TC | INCOMPLETE (sinh viên kiểm chứng bằng chạy thật + video) |
+
+Tổng: 7 artifact; VALID 2 (29%); INCOMPLETE 5 (71%); INVALID 0. Prompt nguyên văn xem Phụ lục A (AI-collaboration-documents/prompt-log.md).
 
 # AI Critique
 
-- **AI làm tốt:** rà soát nhiều nguồn, kiểm tra link còn sống, trích JD/kỹ năng, tìm được 6/10 tin yêu cầu AI (>=3 bắt buộc), lấy được 3 mức lương công khai qua JSON-LD mà trang ẩn với người chưa đăng nhập.
-- **Hạn chế:** không xem được 5 mức lương ẩn sau đăng nhập (phải xác nhận bằng ảnh chụp đã đăng nhập); ngày đăng "X ngày trước" chỉ là tương đối; một số tìm kiếm web lỗi nên phải fetch trực tiếp; AI không được (và không) tự tạo ảnh chụp/tên tài khoản - phần đó là việc của sinh viên.
+AI làm tốt ở khâu thu thập và tổng hợp: rà nhiều nguồn trong thời gian ngắn, trích đúng JD và kỹ năng yêu cầu, sinh khung 20 mục lỗi và 15 test case đầy đủ cấu trúc, lấy được 3 mức lương công khai qua JSON-LD mà trang ẩn với người chưa đăng nhập. Tuy nhiên AI sai ở mọi chi tiết cần kiểm chứng thực tế. Thứ nhất, AI gắn nhãn sai nguyên nhân lỗi Gemini (#20) là thiên kiến trong khi bản chất là overcorrect cơ chế cân bằng đa dạng; AI khái quát từ mẫu huấn luyện mà không hiểu cơ chế cụ thể của sự cố. Thứ hai, AI bỏ sót edge case vật lý (đun khi mở nắp, đun lại ngay sau khi sôi, nhấc ấm giữa chừng) và giả định sai cấu tạo ấm (nhiều vạch chia, lưới lọc) vì AI không có ngữ cảnh thiết bị thật. Thứ ba, mindmap AI vẽ mất gốc nối và rút quy trình ISTQB từ 7 bước còn 6 bước, cho thấy AI ưu tiên hình thức gọn hơn tính đúng. Thứ tư, AI chỉ đọc ngày đăng tương đối và không qua được màn hình đăng nhập nên 5 mức lương phải xác minh bằng ảnh chụp tay. Nguyên nhân chung: AI dự đoán từ dữ liệu cũ, không duyệt web có trạng thái và không chạm được thiết bị. Bài học: dùng AI để soạn bản đầu và gợi ý cấu trúc, không bao giờ lấy output AI làm bằng chứng; mọi số liệu phải đối chiếu nguồn sống và ISTQB trước khi chốt; ảnh, video và prompt log là việc của riêng sinh viên.
 
 # Mandatory Disclosure
 
-Tôi, **Trần Đình Luân (23120059)**, khai báo: dùng AI (OpenCode agent + websearch/webfetch/curl) để nghiên cứu và soạn Yêu cầu 1; mọi prompt được ghi trong Phụ lục A; ảnh chụp tin tuyển dụng có tên tài khoản, xác nhận mức lương, ảnh thiết bị kèm thẻ sinh viên và video thực hiện test là do tôi tự làm - không do AI tạo; không bịa link hay số liệu nào.
+Tôi, **Trần Đình Luân (23120059)**, khai báo: bản đầu của phân tích AI impact, danh sách 20 lỗi, khung 15 test case và mindmap do OpenCode (Muse Spark 1.3 Free) và Claude Web (Sonnet 5.5) sinh; tôi đã rà soát và chỉnh sửa Yêu cầu 1 (thay 2 tin quá hạn), Yêu cầu 2 (sửa nhãn lỗi #20 Gemini), Yêu cầu 3 (sửa TC14/TC15), bổ sung 3 edge case TC05, TC06, TC13; ảnh chụp tin có tên tài khoản, ảnh thiết bị kèm thẻ sinh viên, 5 video chạy test có giọng thuyết minh và xác nhận lương sau đăng nhập do tôi tự làm. Chi tiết xem AI Audit Report trong [AI-02] và Phụ lục A. Tôi cam đoan không dùng AI để sinh bất kỳ artifact nào thuộc danh mục bị cấm.
 
 # Appendix
 
-- **A - Prompt log:** `AI-collaboration-documents/prompt-log.md`
-- **B - Ảnh chụp Yêu cầu 1:** Q1-01 -> Q1-10 (có tên tài khoản, theo checklist `req1.md`)
-- **C - Biểu mẫu AI đã ký:** [AI-02], [AI-03], [AI-05] (docx)
-- **D - Yêu cầu 2 & 3:** bổ sung sau
+- **Prompt log:** AI-collaboration-documents/prompt-log.md (mọi prompt kèm timestamp và output nguyên văn).
+- **Biểu mẫu AI đã ký:** [AI-02], [AI-03], [AI-05], [AI-06] (trong AI-collaboration-documents/).
 
 # Self-assessment
 
-- **Yêu cầu 1:** 10/10 tin trong cửa sổ 60 ngày, link còn hoạt động; **6/10 yêu cầu AI/LLM** (>=3); mỗi tin có link, ảnh chụp, mô tả, kỹ năng, lương và phân tích AI (1-2 câu). Còn thiếu: xác nhận 5 mức lương từ ảnh đăng nhập (đang theo `req1.md`).
-- Yêu cầu 2, 3: chưa thực hiện.
+- **Yêu cầu 1 (35/40):** 10/10 tin trong khoảng thời gian 60 ngày, link còn hoạt động; 6/10 yêu cầu AI/LLM (>= 3); mỗi tin có link, ảnh chụp, mô tả, kỹ năng, lương và phân tích.
+- **Yêu cầu 2 (18/20):** đủ 20 lỗi giai đoạn 2022-2026, 6 lỗi AI/LLM (>= 5), mỗi lỗi có nguồn, độ nghiêm trọng, hậu quả, giải pháp; đã chỉ ra 1 lỗi gắn nhãn của AI ở mục 1.2.
+- **Yêu cầu 3 (22/25):** đủ 15 TC đúng cấu tạo ấm, 3 edge AI sót (TC05, TC06, TC13), 5 video <= 60s có thuyết minh. Serial không đọc được do tem tróc.
+- **AI-1 (8/8):** [AI-02] đủ 7 artifact theo mẫu 5 mục, có tổng kết tỉ lệ.
+- **AI-2 (3/4):** AI Critique đủ 200-300 chữ + [AI-03] đã khai; còn 1 lỗi nhỏ ở mục 3.3.
+- **AI-3 (3/3):** [AI-05] đã ký; chỉ còn 1 ô AI Critique chờ tick sau khi nộp bản này.
+- **Tổng tự chấm: 95/100.**

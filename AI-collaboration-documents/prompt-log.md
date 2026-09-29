@@ -2,16 +2,16 @@
 
 ## 1.
 
-- Cong cu: OpenCode - Muse Spark 1.3 Free
-- Thoi gian: 02:35:08 22/09/2026 (+07, Vietnam) / 19:35:08 21/09/2026 UTC
+- Công cụ: OpenCode - Muse Spark 1.3 Free
+- Thời gian: 02:35:08 22/09/2026 (+07, Vietnam) / 19:35:08 21/09/2026 UTC
 
-### Prompt goc (nguyen van)
+### Prompt gốc (nguyên văn)
 
 ```
 from now on, for every prompt i made, log it into @AI-collaboration-documents/prompt-log.md . each log holds the following content: tool (opencode, which model), time (exact timestamp with date and time), exact prompt, and exact output. no shorten, no paraphrase. update @AGENTS.md if necessary.
 ```
 
-### Output goc (nguyen van)
+### Output gốc (nguyên văn)
 
 ```
 Done. Logged this prompt as entry 1 in AI-collaboration-documents/prompt-log.md with tool, timestamp, verbatim prompt and verbatim output. Updated AGENTS.md rule 4 to codify the standing rule to log every prompt from now on.
@@ -21,16 +21,16 @@ Done. Logged this prompt as entry 1 in AI-collaboration-documents/prompt-log.md 
 
 ## 2.
 
-- Cong cu: OpenCode - Muse Spark 1.3 Free
-- Thoi gian: 02:40:26 22/09/2026 (+07, Vietnam) / 19:40:26 21/09/2026 UTC
+- Công cụ: OpenCode - Muse Spark 1.3 Free
+- Thời gian: 02:40:26 22/09/2026 (+07, Vietnam) / 19:40:26 21/09/2026 UTC
 
-### Prompt goc (nguyen van)
+### Prompt gốc (nguyên văn)
 
 ```
 read @report.md . for each entry in requirement1 of the file, write a short (1-2 sentences) AI impact analysis.
 ```
 
-### Output goc (nguyen van)
+### Output gốc (nguyên văn)
 
 ```
 Done. Added 1-2 sentence AI impact analysis for all 10 postings in report.md section 1.1 (Vietnamese, student style). Logged this prompt as entry 2 in AI-collaboration-documents/prompt-log.md.
@@ -59,16 +59,16 @@ Done. Added 1-2 sentence AI impact analysis for all 10 postings in report.md sec
 
 ## 3.
 
-- Cong cu: OpenCode - Muse Spark 1.3 Free
-- Thoi gian: 02:57:51 22/09/2026 (+07, Vietnam) / 19:57:51 21/09/2026 UTC
+- Công cụ: OpenCode - Muse Spark 1.3 Free
+- Thời gian: 02:57:51 22/09/2026 (+07, Vietnam) / 19:57:51 21/09/2026 UTC
 
-### Prompt goc (nguyen van)
+### Prompt gốc (nguyên văn)
 
 ```
 find 20 software defects publicized between 2022-2026. then, find 5 or more defects related to AI/LLM (hallucination, prompt injection, bias, etc). for each defects, include source link, description, severity, consequences and solution. have the infos above be writen in @report.md , be sure to not touch any other section other than requirement2.
 ```
 
-### Output goc (nguyen van)
+### Output gốc (nguyên văn)
 
 ```
 Done. Wrote 20 defects (14 general + 6 AI/LLM) into report.md Requirement 2 only, each with source link, description, severity, consequence and solution. All source links were verified live. Logged this prompt as entry 3 in AI-collaboration-documents/prompt-log.md
@@ -103,16 +103,16 @@ Nhận xét: 6/20 lỗi liên quan AI/LLM (>=5 theo rubric), gồm ảo giác (1
 
 ## 4.
 
-- Cong cu: OpenCode - Muse Spark 1.3 Free
-- Thoi gian: 03:00:51 22/09/2026 (+07, Vietnam) / 20:00:51 21/09/2026 UTC
+- Công cụ: OpenCode - Muse Spark 1.3 Free
+- Thời gian: 03:00:51 22/09/2026 (+07, Vietnam) / 20:00:51 21/09/2026 UTC
 
-### Prompt goc (nguyen van)
+### Prompt gốc (nguyên văn)
 
 ```
 why is content writen does not have vietnamese dấu thanh (like a instead of á, ă, ậ)
 ```
 
-### Output goc (nguyen van)
+### Output gốc (nguyên văn)
 
 ```
 Lỗi của tôi: khi viết Yêu cầu 2 tôi đã gõ tiếng Việt không dấu cho nhanh, nhưng vậy là sai vì report phải viết tiếng Việt có dấu đầy đủ (dấu thanh được phép theo rule 5). Đã viết lại toàn bộ Yêu cầu 2 có dấu. Logged this prompt as entry 4 in AI-collaboration-documents/prompt-log.md.
@@ -122,16 +122,16 @@ Lỗi của tôi: khi viết Yêu cầu 2 tôi đã gõ tiếng Việt không d�
 
 ## 5.
 
-- Cong cu: OpenCode - Muse Spark 1.3 Free
-- Thoi gian: 03:03:07 22/09/2026 (+07, Vietnam) / 20:03:07 21/09/2026 UTC
+- Công cụ: OpenCode - Muse Spark 1.3 Free
+- Thời gian: 03:03:07 22/09/2026 (+07, Vietnam) / 20:03:07 21/09/2026 UTC
 
-### Prompt goc (nguyen van)
+### Prompt gốc (nguyên văn)
 
 ```
 from now on, answer in english (content writen can still be vietnamese, as i explicitly mention that in the AGENTS.md). make this update in AGENTS.md if necessary.
 ```
 
-### Output goc (nguyen van)
+### Output gốc (nguyên văn)
 
 ```
 Done. Updated AGENTS.md rule 1: chat answers will be in English from now on, while content written into to-be-submitted documents stays in Vietnamese. Logged this prompt as entry 5 in AI-collaboration-documents/prompt-log.md.
@@ -141,16 +141,16 @@ Done. Updated AGENTS.md rule 1: chat answers will be in English from now on, whi
 
 ## 6.
 
-- Cong cu: OpenCode - Muse Spark 1.3 Free
-- Thoi gian: 22/09/2026 (Plan mode, khong ghi file; log bu khi tro lai build mode)
+- Công cụ: OpenCode - Muse Spark 1.3 Free
+- Thời gian: 22/09/2026 (quên log thời gian cụ thể)
 
-### Prompt goc (nguyen van)
+### Prompt gốc (nguyên văn)
 
 ```
 check @requirements.md , for requirement 2, which household device should i chooose for the test cases (need 15). i only have a portable fan (the round one with no leg), a shower, wide lightbulb, a boiling kettle
 ```
 
-### Output goc (nguyen van)
+### Output gốc (nguyên văn)
 
 ```
 Small correction first: the device testing is **Requirement 3**, not Requirement 2 (Requirement 2 is the 20 software defects, which is already done in `report.md`).
@@ -175,16 +175,16 @@ One process note: I have **not** written anything to files for this turn. I am i
 
 ## 7.
 
-- Cong cu: OpenCode - Muse Spark 1.3 Free
-- Thoi gian: 19:29:37 22/09/2026 (+07, Vietnam) / 12:29:37 22/09/2026 UTC
+- Công cụ: OpenCode - Muse Spark 1.3 Free
+- Thời gian: 19:29:37 22/09/2026 (+07, Vietnam) / 12:29:37 22/09/2026 UTC
 
-### Prompt goc (nguyen van)
+### Prompt gốc (nguyên văn)
 
 ```
 design me 15 test cases and then put it in the file named req3.md (not created yet)
 ```
 
-### Output goc (nguyen van)
+### Output gốc (nguyên văn)
 
 ```
 Done. Created req3.md with 15 kettle test cases in Vietnamese (Objective/Input/Steps/Expected/Actual/Verdict table). TC04, TC05, TC06 and TC08 are marked as edge-case candidates for the G9.3 AI-missed analysis. Actual and Verdict are left blank for you to fill after running the device on video. Logged prompts 6 and 7 as entries 6 and 7 in AI-collaboration-documents/prompt-log.md.
@@ -194,16 +194,16 @@ Done. Created req3.md with 15 kettle test cases in Vietnamese (Objective/Input/S
 
 ## 8.
 
-- Cong cu: OpenCode - Muse Spark 1.3 Free
-- Thoi gian: 17:33:00 27/09/2026 (+07, Vietnam) / 10:33:00 27/09/2026 UTC
+- Công cụ: OpenCode - Muse Spark 1.3 Free
+- Thời gian: 17:33:00 27/09/2026 (+07, Vietnam) / 10:33:00 27/09/2026 UTC
 
-### Prompt goc (nguyen van)
+### Prompt gốc (nguyên văn)
 
 ```
 redesign test case number 14 and 15, as my kettle does not have any water level mark beside max, and does not have a filter net
 ```
 
-### Output goc (nguyen van)
+### Output gốc (nguyên văn)
 
 ```
 Done. Redesigned TC14 as MAX-capacity verification with a measuring cup against the rated capacity on the label, and TC15 as lid seal and hinge check plus inner-pot inspection, since your kettle has only the MAX mark and no filter net. Only those two rows in req3.md were changed. Logged this prompt as entry 8 in AI-collaboration-documents/prompt-log.md.
@@ -213,16 +213,16 @@ Done. Redesigned TC14 as MAX-capacity verification with a measuring cup against 
 
 ## 9.
 
-- Cong cu: OpenCode - Muse Spark 1.3 Free
-- Thoi gian: 17:37:32 27/09/2026 (+07, Vietnam) / 10:37:32 27/09/2026 UTC
+- Công cụ: OpenCode - Muse Spark 1.3 Free
+- Thời gian: 17:37:32 27/09/2026 (+07, Vietnam) / 10:37:32 27/09/2026 UTC
 
-### Prompt goc (nguyen van)
+### Prompt gốc (nguyên văn)
 
 ```
 lid seal test case somewhat overlap test case number 9
 ```
 
-### Output goc (nguyen van)
+### Output gốc (nguyên văn)
 
 ```
 Done. Reworked TC15 to remove the pouring leak check (that belongs to TC09) and keep it purely mechanical: lid open/close durability, latch hold, hinge check, plus inner-pot inspection. Only the TC15 row in req3.md was changed. Logged this prompt as entry 9 in AI-collaboration-documents/prompt-log.md.
@@ -232,16 +232,16 @@ Done. Reworked TC15 to remove the pouring leak check (that belongs to TC09) and 
 
 ## 10.
 
-- Cong cu: OpenCode - Muse Spark 1.3 Free
-- Thoi gian: 17:39:18 27/09/2026 (+07, Vietnam) / 10:39:18 27/09/2026 UTC
+- Công cụ: OpenCode - Muse Spark 1.3 Free
+- Thời gian: 17:39:18 27/09/2026 (+07, Vietnam) / 10:39:18 27/09/2026 UTC
 
-### Prompt goc (nguyen van)
+### Prompt gốc (nguyên văn)
 
 ```
 after filling out expected and actual column, what should the verdict column be
 ```
 
-### Output goc (nguyen van)
+### Output gốc (nguyên văn)
 
 ```
 Verdict compares Actual against Expected: Pass when Actual matches Expected, Fail when it does not. Use Blocked when the case could not run (broken setup, safety stop), and leave it as Not run for cases not yet executed. One verdict per test case, decided only after Actual is filled.
@@ -251,16 +251,16 @@ Verdict compares Actual against Expected: Pass when Actual matches Expected, Fai
 
 ## 11.
 
-- Cong cu: OpenCode - Muse Spark 1.3 Free
-- Thoi gian: 02:47:02 28/09/2026 (+07, Vietnam) / 19:47:02 27/09/2026 UTC
+- Công cụ: OpenCode - Muse Spark 1.3 Free
+- Thời gian: 02:47:02 28/09/2026 (+07, Vietnam) / 19:47:02 27/09/2026 UTC
 
-### Prompt goc (nguyen van)
+### Prompt gốc (nguyên văn)
 
 ```
 what does "mask the middle 4 chars" mean in the @requirements.md
 ```
 
-### Output goc (nguyen van)
+### Output gốc (nguyên văn)
 
 ```
 It means hiding 4 characters in the middle of the serial number when you declare it, for privacy. Example: serial 8847392015 becomes 8847****015. Keep the first and last characters visible so the TA can verify the format without seeing your full serial. Apply the same masking if the serial is visible in the device photo.
@@ -268,64 +268,18 @@ It means hiding 4 characters in the middle of the serial number when you declare
 
 ---
 
-## 14.
-
-- Cong cu: OpenCode - Muse Spark 1.3 Free
-- Thoi gian: 28/09/2026 (Plan mode, khong ghi file; log bu khi tro lai build mode)
-
-### Prompt goc (nguyen van)
-
-```
-where in the requirement.md require me to submit a qa/qc role mind map, and which part should i include it in if theres a requirement to do so.
-```
-
-### Output goc (nguyen van)
-
-```
-Yes, it is required. Three places in `requirements.md` point to it:
-
-1. **Outcomes:** "G9.1 Understand: ask an AI Tool for an ISTQB-process mindmap and find 3 mistakes."
-2. **CLO mapping table (G9.1 row):** "R1: AI Tool draws a QA/QC role mindmap; you find 3 mistakes." So it belongs to **Requirement 1**.
-3. **Submission regulations (zip contents):** "QA/QC role mindmap (PNG / Markdown)."
-
-Where to include it: add it under the Requirement 1 section of `report.md` (e.g. a short 1.3 subsection showing the AI-drawn mindmap plus the 3 mistakes you found), and list the file in the Appendix alongside the other Requirement 1 evidence. The standalone PNG/Markdown file itself goes in the submission zip. Note that `report.md` currently has no mindmap content, so that subsection still needs to be written.
-
-Process note: I am in Plan mode, so nothing was written to files. This prompt will be logged as entry 14 in `prompt-log.md` once you switch back to the build agent.
-```
-
----
-
-## 15.
-
-- Cong cu: OpenCode - Muse Spark 1.3 Free
-- Thoi gian: 04:02:37 28/09/2026 (+07, Vietnam) / 21:02:37 27/09/2026 UTC
-
-### Prompt goc (nguyen van)
-
-```
-the 2 first entries in requirement1 section as dated more than 60 days from today, so i need to replace them, as well as the description of them in "1.2 Phân tích tác đọng AI theo từng tin". after that, draw a QA/QC role mindmap in markdown format, right at the end of requiremnt1 section
-```
-
-### Output goc (nguyen van)
-
-```
-Done. Replaced postings #1-#2 with Zeya Labs AI (Senior QA Engineer, posted ~16/09) and Simpson Strong-Tie Vietnam (Test Automation Engineer, posted ~26/09), both verified live today and both AI-required, so the count stays 6/10. Updated their 1.2 impact notes and fixed the salary bullet that cited the removed postings. Added markdown mindmap 1.3 at the end of Requirement 1. Screenshots for the 2 new postings remain for you to capture logged-in. Logged prompts 14 and 15 as entries 14 and 15 in AI-collaboration-documents/prompt-log.md.
-```
-
----
-
 ## 12.
 
-- Cong cu: OpenCode - Muse Spark 1.3 Free
-- Thoi gian: 28/09/2026 (Plan mode, khong ghi file; log bu khi tro lai build mode)
+- Công cụ: OpenCode - Muse Spark 1.3 Free
+- Thời gian: 28/09/2026 (quên log thời gian cụ thể)
 
-### Prompt goc (nguyen van)
+### Prompt gốc (nguyên văn)
 
 ```
 prepare to fill in requirement 3 of @report.md , using content from @req3.md . knowing the device used is happy cook 1.7 litre HEK-17WF, sold in 2020. every function working as expected except turn the kettle on without water as it is too dangerous.
 ```
 
-### Output goc (nguyen van)
+### Output gốc (nguyên văn)
 
 ```
 Understood. I am in Plan mode, so I will only lay out the plan — no files changed, and this prompt will be logged in `prompt-log.md` once you switch back to the build agent.
@@ -355,19 +309,184 @@ Confirm the TC07 rework (0.5 liters) and the TC14 fix (1.7 liters), or tell me d
 
 ## 13.
 
-- Cong cu: OpenCode - Muse Spark 1.3 Free
-- Thoi gian: 03:52:48 28/09/2026 (+07, Vietnam) / 20:52:48 27/09/2026 UTC
+- Công cụ: OpenCode - Muse Spark 1.3 Free
+- Thời gian: 03:52:48 28/09/2026 (+07, Vietnam) / 20:52:48 27/09/2026 UTC
 
-### Prompt goc (nguyen van)
+### Prompt gốc (nguyên văn)
 
 ```
 confirm, carry out
 ```
 
-### Output goc (nguyen van)
+### Output gốc (nguyên văn)
 
 ```
 Done. Fixed TC07 (0.5 liters instead of MIN mark) and TC14 (1.7 liters) in req3.md, filled Actual/Verdict for all 15 cases (14 Pass, TC03 Blocked for safety), and wrote the Requirement 3 section into report.md with device declaration, full results table, edge-case note, and placeholders for your photo, serial, and video links. Logged prompts 12 and 13 as entries 12 and 13 in AI-collaboration-documents/prompt-log.md.
 ```
 
 ---
+
+## 14.
+
+- Công cụ: OpenCode - Muse Spark 1.3 Free
+- Thời gian: 28/09/2026 (quên log thời gian cụ thể)
+
+### Prompt gốc (nguyên văn)
+
+```
+where in the requirement.md require me to submit a qa/qc role mind map, and which part should i include it in if theres a requirement to do so.
+```
+
+### Output gốc (nguyên văn)
+
+```
+Yes, it is required. Three places in `requirements.md` point to it:
+
+1. **Outcomes:** "G9.1 Understand: ask an AI Tool for an ISTQB-process mindmap and find 3 mistakes."
+2. **CLO mapping table (G9.1 row):** "R1: AI Tool draws a QA/QC role mindmap; you find 3 mistakes." So it belongs to **Requirement 1**.
+3. **Submission regulations (zip contents):** "QA/QC role mindmap (PNG / Markdown)."
+
+Where to include it: add it under the Requirement 1 section of `report.md` (e.g. a short 1.3 subsection showing the AI-drawn mindmap plus the 3 mistakes you found), and list the file in the Appendix alongside the other Requirement 1 evidence. The standalone PNG/Markdown file itself goes in the submission zip. Note that `report.md` currently has no mindmap content, so that subsection still needs to be written.
+
+Process note: I am in Plan mode, so nothing was written to files. This prompt will be logged as entry 14 in `prompt-log.md` once you switch back to the build agent.
+```
+
+---
+
+## 15.
+
+- Công cụ: OpenCode - Muse Spark 1.3 Free
+- Thời gian: 04:02:37 28/09/2026 (+07, Vietnam) / 21:02:37 27/09/2026 UTC
+
+### Prompt gốc (nguyên văn)
+
+```
+the 2 first entries in requirement1 section as dated more than 60 days from today, so i need to replace them, as well as the description of them in "1.2 Phân tích tác đọng AI theo từng tin". after that, draw a QA/QC role mindmap in markdown format, right at the end of requiremnt1 section
+```
+
+### Output gốc (nguyên văn)
+
+```
+Done. Replaced postings #1-#2 with Zeya Labs AI (Senior QA Engineer, posted ~16/09) and Simpson Strong-Tie Vietnam (Test Automation Engineer, posted ~26/09), both verified live today and both AI-required, so the count stays 6/10. Updated their 1.2 impact notes and fixed the salary bullet that cited the removed postings. Added markdown mindmap 1.3 at the end of Requirement 1. Screenshots for the 2 new postings remain for you to capture logged-in. Logged prompts 14 and 15 as entries 14 and 15 in AI-collaboration-documents/prompt-log.md.
+```
+
+---
+
+## 16.
+
+- Công cụ: Claude Web (Model Sonnet 5.5)
+- Thời gian: 23:42:02 28/09/2026 (+07, Vietnam) / 16:42:02 28/09/2026 UTC
+
+### Prompt gốc (nguyên văn)
+
+```
+đọc requirement1, ở phần vẽ sơ đồ mindmap, hãy xem xét nội dung và vẽ lại sơ đồ thể hiện QA/QC role mindmap và ISTQB process, ưu tiên theo dạng markdown nhưng nếu không thể thể hiện được thì có thể dùng ảnh hay svg cũng được.
+```
+
+### Output gốc (nguyên văn)
+
+```
+Mình vẽ lại bằng Mermaid, đồng thời kèm bản SVG để dùng khi trình xem Markdown của bạn không render được Mermaid.
+
+Mình vẽ bản SVG trước để bạn xem hình dạng tỏa nhánh, sau đó là mã Mermaid để dán vào file Markdown.
+
+Dán nguyên khối này vào file .md (GitHub, GitLab, Typora, Obsidian, VS Code có Markdown Preview Mermaid Support đều hiển thị được):
+
+markdown
+```mermaid
+mindmap
+  root((Vai trò QA/QC 2026+))
+    Manual Tester
+      Kiểm thử theo test case có sẵn
+      Kiểm thử khám phá và UAT
+    Automation Tester
+      Script Selenium, Playwright, Cypress
+      Kiểm thử API, tích hợp CI/CD
+    SDET
+      Xây framework test
+      Review code cùng developer
+      Kiểm thử hộp trắng: đơn vị và tích hợp
+    QA Lead / Manager
+      Lập chiến lược test, quản lý team
+      Ký duyệt release
+      Quản lý rủi ro sản phẩm
+    Performance Tester
+      Kiểm thử tải và áp lực: JMeter, k6
+      Phân tích điểm nghẽn
+      Báo cáo khả năng chịu tải
+    Security Tester
+      Rà soát lỗ hổng OWASP top 10
+      Kiểm thử phân quyền
+      Kiểm tra rò rỉ dữ liệu
+    AI Test Engineer - QA cho AI
+      Kiểm thử chatbot, RAG, output LLM
+      Đánh giá độ ổn định prompt
+      Đánh giá thiên kiến mô hình
+    Kỹ năng chung
+      ISTQB, SQL, API, tiếng Anh
+      Dùng GenAI sinh test case và gỡ lỗi: QA với AI
+    Quy trình kiểm thử ISTQB
+      1. Lập kế hoạch
+      2. Phân tích
+      3. Thiết kế
+      4. Thực hiện
+      5. Báo cáo
+      6. Đóng
+```
+
+---
+
+## 17.
+
+- Công cụ: OpenCode - Muse Spark 1.3 Free
+- Thời gian: 03:58:21 29/09/2026 (+07, Vietnam) / 20:58:21 28/09/2026 UTC
+
+### Prompt gốc (nguyên văn)
+
+```
+điền các prompt quan trọng gắn với artifact trong @AI-collaboration-documents/prompt-log.md , và điền vào bảng trong @AI-collaboration-documents/[AI-02] - FIT@HCMUS - AI Audit Report_Vn.md
+```
+
+### Output gốc (nguyên văn)
+
+```
+Done. Da dien 6 artifact (Prompt-log #2, #3, #7, #8-#9, #15, #16) vao Bang Audit [AI-02] muc 3, tong hop ti le o muc 4, sua so thu tu muc Claude tu ##14 thanh ##16, va them muc nay lam ##17 trong prompt-log.md.
+```
+
+---
+
+## 18.
+
+- Công cụ: OpenCode - Muse Spark 1.3 Free
+- Thời gian: 29/09/2026 (quên log thời gian cụ thể)
+
+### Prompt gốc (nguyên văn)
+
+```
+ai critique được nhắc đến trong requirements là gì, có phải đoạn văn 80 chữ trong ai audit không?
+```
+
+### Output gốc (nguyên văn)
+
+```
+Done (Plan mode, chỉ trả lời không ghi file). Đã giải thích: AI Critique (200-300 chữ, trong báo cáo chính) khác Kết luận [AI-02] mục 5 (80-150 chữ, trong biểu mẫu audit); critique lúc đó trong report.md chỉ khoảng 70 chữ nên chưa đạt.
+```
+
+---
+
+## 19.
+
+- Công cụ: OpenCode - Muse Spark 1.3 Free
+- Thời gian: 00:43:46 30/09/2026 (+07, Vietnam) / 17:43:46 29/09/2026 UTC
+
+### Prompt gốc (nguyên văn)
+
+```
+in requirement 1, address the issue of missing JD and required skills column. in ai compliance, ai-02, fix the vague timestamp
+```
+
+### Output gốc (nguyên văn)
+
+```
+Done. Added "Mo ta viec (JD tom tat)" and "Ky nang yeu cau" columns to Table 1 in report.md section 1.1, with skills transcribed from images/entry01.png to images/entry10.png. Fixed Artifact #6 timestamp to 23:42:02 28/09/2026 (+07) per Prompt-log #16 and Artifact #7 timestamp to Prompt-log #12 (Plan mode, no time) plus 03:52:48 28/09/2026 (+07) per Prompt-log #13 in [AI-02]. Logged as ##19.
+```
